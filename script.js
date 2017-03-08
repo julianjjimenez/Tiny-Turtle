@@ -12,4 +12,16 @@ TinyTurtle.apply(window);
     left(90);
     forward(45);
     right(90);
+    penUp();
+    forward(-90);
+    penDown();
+    right(90);
+    forward(45);
+    right(-30);
+    forward(45);
+    right(-60);
+    forward(45);
+    right(-60);
+    forward(45);
     stamp();
+    right()
